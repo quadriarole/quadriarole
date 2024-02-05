@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\today\bin\Debug\net7.0\today.exe
+C:\Users\User\Desktop\today\bin\Debug\net7.0\today.deps.json
+C:\Users\User\Desktop\today\bin\Debug\net7.0\today.runtimeconfig.json
+C:\Users\User\Desktop\today\bin\Debug\net7.0\today.dll
+C:\Users\User\Desktop\today\bin\Debug\net7.0\today.pdb
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.AssemblyInfo.cs
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.dll
+C:\Users\User\Desktop\today\obj\Debug\net7.0\refint\today.dll
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.pdb
+C:\Users\User\Desktop\today\obj\Debug\net7.0\today.genruntimeconfig.cache
+C:\Users\User\Desktop\today\obj\Debug\net7.0\ref\today.dll
